@@ -1,9 +1,9 @@
 {
   "manifest_version": 3,
-  "name": "YT Shorts Frame by HVS",
+  "name": "YT Shorts Frame Skipper",
   "version": "1.0.0",
   "description": "Frame-by-frame navigation for YouTube Shorts. Use , (comma) to go back and . (dot) to go forward one frame.",
-  "permissions": ["activeTab", "scripting"],
+  "permissions": ["activeTab"],
   "host_permissions": ["https://www.youtube.com/*"],
   "content_scripts": [
     {
